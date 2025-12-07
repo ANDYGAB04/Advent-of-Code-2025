@@ -5,7 +5,7 @@ This project contains my solutions to the puzzles from [Advent of Code 2025](htt
 
 ## What is Advent of Code?
 
-[Advent of Code](https://adventofcode.com/) is an annual event created by Eric Wastl. Each day from December 1st to 25th, a new festive challenge is released, designed to test your problem-solving and coding skills.
+[Advent of Code](https://adventofcode.com/) is an annual event created by Eric Wastl. Each day from December 1st to 12th, a new festive challenge is released, designed to test your problem-solving and coding skills.
 
 ## Repository Structure
 
@@ -18,11 +18,11 @@ Each day's challenge solution is organized by day number:
 │   └── solution.py
 ├── day02/
 │   ├── input.txt
-│   └── solution.py
+│   └── solution.cpp
 ...
 ```
 - `input.txt` — The puzzle input for the day.
-- `solution.py` — My solution for the day's puzzle.
+- `solution.cpp` — My solution for the day's puzzle.
 
 ## Running the Solutions
 
@@ -31,15 +31,6 @@ Each day's challenge solution is organized by day number:
    ```bash
    git clone https://github.com/ANDYGAB04/Advent-of-Code-2025.git
    ```
-
-2. Change to the desired day's directory and run the solution script:
-
-   ```bash
-   cd Advent-of-Code-2025/day01
-   python solution.py
-   ```
-
-   _(Make sure you have Python installed.)_
 
 ## Progress
 
